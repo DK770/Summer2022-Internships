@@ -13,6 +13,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 
 | Name  |  Location |  Notes |
 |---|---|-------------|
+|[Gusto](https://boards.greenhouse.io/gusto/jobs/3499036) | SF, NYC, Denver | |
 |[Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London, Austin | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
 |<del>Bridgewater Associates</del> | | **Closed** |
 |[Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`|
@@ -38,7 +39,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/Futureforce_Internships/job/California---San-Francisco/Summer-2022-Intern---Software-Engineer_JR100559?d=cta-summer-view-sjb-1)| Various | Software Engineering Intern |
 |[RBC Capital Markets](https://jobs.rbc.com/ca/en/job/RBCAA0088327043EXTERNALENCA/2022-Technology-Summer-Analyst-Program) | NYC | |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Boston, MA | Quant |
-|[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3215532) | San Francisco, CA | SWE Internship(Class of 2024) |
+|<del>Asana</del> | | **Closed** |
 |[Target](https://jobs.target.com/job/brooklyn-park/software-engineering-internship-summer-2022/1118/13300878224) | Brooklyn Park, MN | Software Engineering Internship |
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e138f59a0427/candidate/so/pm/1/pl/2/opp/489-2022-Summer-Analyst-Internship-Technology/en-GB) | Various | Other positions [here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-5db317b8ad85/candidate/jobboard/vacancy/2/adv/?ftq=2022) |
 |[MealMe](https://www.mealme.ai/software-internship) | Not displayed | See positions [here](https://www.mealme.ai/careers) |
@@ -52,10 +53,10 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Bracebridge Capital](https://phh.tbe.taleo.net/phh02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=246) | Boston, MA | Investment Analyst position is available. |
 |[Federated Insurance](https://careers-federatedinsurance.icims.com/jobs/3098/it-systems-developer-intern---summer-2022/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1887&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Owatonna, MN | IT-Systems Developer Intern position is available. |
 |[US Ventures](https://careers.usventure.com/us/en/job/USVEUSREQ007946/Software-Engineering-Intern) | Green Bay, WI | |
-|[Amazon/AWS](https://www.amazon.jobs/en/search?base_query=Summer+2022&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=) | Various | [Software Development Engineer](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us), [Cloud Support Associate](https://www.amazon.jobs/en/jobs/1608042/cloud-support-associate-intern-summer-2022-us), [Assoc Customer Solutions Manager](https://www.amazon.jobs/en/jobs/1609945/assoc-customer-solutions-manager-intern-summer-2022-us), [Quality Assurance Engineer](https://www.amazon.jobs/en/jobs/1628670/quality-assurance-engineer-internship-summer-2022-us), [Big Data SDE](https://www.amazon.jobs/en/jobs/1673627/summer-2022-software-development-engineer-intern-big-data) and other Intern positions are available. |
+|[Amazon/AWS](https://www.amazon.jobs/en/search?base_query=Summer+2022&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=) | Various | [Software Development Engineer](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us), [Cloud Support Associate](https://www.amazon.jobs/en/jobs/1608042/cloud-support-associate-intern-summer-2022-us), [Assoc Customer Solutions Manager](https://www.amazon.jobs/en/jobs/1609945/assoc-customer-solutions-manager-intern-summer-2022-us), [Quality Assurance Engineer](https://www.amazon.jobs/en/jobs/1628670/quality-assurance-engineer-internship-summer-2022-us), [Security Engineer](https://www.amazon.jobs/en/jobs/1628641/security-engineer-internship-summer-2022-us) and other Intern positions are available. |
 |[Palantir](https://jobs.lever.co/palantir?commitment=Internship)| Various | [Forward Deployed Software Engineer](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2), [Software Engineer](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0), [Palantir Path](https://jobs.lever.co/palantir/667ad245-0eb8-44da-b29c-791c2fa081d3) Intern positions are available. |
 |[Tableau](https://salesforce.wd1.myworkdayjobs.com/en-US/Tableau/job/Washington---Seattle/Summer-2022-Intern---Tableau-Software-Engineer_JR103736) | Seattle, Austin, Palo Alto, SF | |
-|[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analystintern-softwareengineerdataengineerdatascientist-campusstudents-41875) | Boston, Chicago, New Jersey, New York City, San Francisco | Analyst Intern - Software Engineer / Data Engineer / Data Scientist |
+|<del>McKinsey</del> | | **Closed** |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MI-Remote/High-Performance-Computing-Engineer-Intern---Summer-2022_JR1943862-2?source=jobboardlinkedin) | US, MI, Remote | Search `2022` for more positions |
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/Summer%202022) | Chicago, IL; San Francisco, CA | [Network Support Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Network-Support-Engineer-Intern-Summer-2022-Internship-Bachelors-Meraki/1339621?source=LinkedIn), [Full Stack Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Summer-2022-Internship-Bachelors-Meraki/1339633?source=LinkedIn), [Product Software Engineer](https://jobs.cisco.com/jobs/ProjectDetail/Product-Software-Engineer-Summer-2022-Internship-Meraki/1339636?source=LinkedIn) Intern positions are available. |
 |[Tower Research Capital](https://www.tower-research.com/open-positions) | Chicago, NYC | Quant Intern positions are available. |
@@ -64,13 +65,14 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Barclays](https://search.jobs.barclays/search-jobs/Summer%202022/United%20States/22545/1/2/6252001/39x76/-98x5/0/2) | Various | QA, Developer Analyst, Data Analytics and other Intern positions are available. Some positions require unrestricted U.S. work authorization. |
 |[Lenovo](https://jobs.lenovo.com/en_US/careers/SearchJobs/Summer%202022?8635=%5B488%5D&8635_format=3279&listFilterMode=1&jobRecordsPerPage=10&) | Various | Server Hardware Development, Software Development and other Intern positions are available. |
 |[Belvedere Trading](http://www.belvederetrading.com/jobs/) | Chicago | Software Engineer Intern (Summer and Winter), Junior Hybrid Trader Intern and Junior Trader intern positions are available. |
+|<del>C.H. Robinson</del> | | **Closed** |
 |[Raymond Corporation](https://recruiting.adp.com/srccar/public/nghome.guid?c=1127807&d=ExternalCareerSite&prc=RMPOD1#/) | Greene, NY | Telematics, Embedded Systems and other Co-op positions are available. Spring Co-op positions are available too. |
 |[DRW](https://drw.com/careers/job/1829227) | Chicago | |
 |[Oracle](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/102463/?utm_medium=jobshare) | Various | Software Engineer Intern in [Analytics Cloud](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120866), [Applications Development](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120868), [Corporate Architechture](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120880), [Database & Systems Technologies](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120869), [Global Business Unit](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120904), [Sophomore](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120874) and [Junior](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120872) programs |
 |[Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us) | Chicago, NYC | |
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | Various |
 |[Aldridge Electric](https://aldridge.csod.com/ux/ats/careersite/9/home?c=aldridge) | Libertyville, IL | [IT](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/553?c=aldridge), [Developer](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/550?c=aldridge), [Agile](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/549?c=aldridge) Intern positions are available. |
-|[VMware](https://careers.vmware.com/internships/jobs/R2115680?lang=en-us) | Various | Intern - Member of Technical Staff - Software Engineering. |
+|<del>VMware</del> | Various | **Closed** | 
 |[Fifth Third Bank](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/IT-Leadership-Program---Summer-2022---Cincinnati_R21485?source=LinkedIn) | Cincinnati, OH | IT Leadership Program. |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Various | Various Positions related to Software Engineer, Business Analyst Internships |
 |[Prudential Financial](https://prudential.eightfold.ai/careers?query=2022&domain=prudential.com&pid=7785614&hl=en) | Newark, NJ | [Coding & Software Development](https://prudential.eightfold.ai/careers?pid=7768293&query=2022&domain=prudential.com&hl=en), [IT](https://prudential.eightfold.ai/careers?pid=7769005&query=2022&domain=prudential.com), [Data & Business Analyst](https://prudential.eightfold.ai/careers?pid=7771140&query=2022&domain=prudential.com&hl=en) Intern positions are available. Successful candidates must possess the requisite US employment authorization to be eligible for consideration. |
@@ -99,8 +101,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[JP Morgan](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210139653) | Various | More positions [here](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=2022&location=United%20States&locationId=300000000289738&locationLevel=country)|
 |[Dropbox](https://www.dropbox.com/jobs/listing/3335410) | Remote | Software Engineering Intern, [Data Science Intern](https://www.dropbox.com/jobs/listing/3386352) |
 |[Cargill](https://careers.cargill.com/search-jobs/Summer%202022/United%20States/23251/1/2/6252001/39x76/-98x5/50/2) | Wayzata, Hopkins, MN | [Software Engineering Intern](https://careers.cargill.com/job/hopkins/software-engineering-internship-summer-2022/23251/12058424688), [Trading Data & Analytics](https://careers.cargill.com/job/wayzata/trading-data-and-analytics-intern-summer-2022/23251/11677499248), [Trading Technology](https://careers.cargill.com/job/hopkins/trading-technology-internship-summer-2022/23251/11677499280) Intern positions. Must have a right to work in the U.S. that is not based solely on possession of a student visa or a visa sponsored by a third-party employer. |
-|[Johnson Controls](https://johnsoncontrols.referrals.selectminds.com/jobs/software-engineer-graduate-intern-121188) | Irvine, CA | Currently Enrolled in a graduate degree program or a senior in an undergraduate program. |
-|[HubSpot](https://www.hubspot.com/careers/jobs/2319369) | Remote | |
+|<del>Johnson Controls</del>| | **Closed** |
+|<del>HubSpot</del>| | **Closed** |
 |[Clever](https://clever.com/about/careers/detail?gh_jid=6194) | San Francisco, CA; Remote in US | Software Engineering Intern |
 |[Robinhood](https://robinhood.com/us/en/careers/openings/) | Menlo Park, CA | [Android Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3335146), [Backend Engineer](https://robinhood.com/us/en/careers/openings/?gh_jid=3339166), [Data Scientist, Analytics](https://robinhood.com/us/en/careers/openings/?gh_jid=3335157) and other Intern positions are available. Winter and Fall internships are available too! |
 |<del>Jina AI</del>| | **Closed** |
@@ -114,7 +116,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |<del>Cox Automotive</del> | | **Closed** |
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-category=Software%2520Development%2520%2526%2520Support&experience=Intern) | Various | Various positions |
 |[Affirm](https://boards.greenhouse.io/affirm/jobs/4650433003?gh_src=689c81d53us)| Remote | Software Engineering Intern |
-|[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern |
+|[Okta](https://www.okta.com/company/careers/engineering/software-engineer-intern-us-and-canada-3338724/)| San Francisco, San Jose, CA; Bellevue, WA | Software Engineer Intern; [Auth0 SWE](https://www.okta.com/company/careers/engineering/software-engineer-intern-auth0-3514615/) |
 |[Pearson](https://pearson.jobs/usa/jobs/?q=Intern)| Durham, NC; San Antonio, TX | Software Engineer Intern. Different technology areas are available. |
 |<del>Commerce Bank</del> | | **Closed** |
 |[Garmin](https://careers-us.garmin.com/us/en/internship-jobs) | Olathe, KS | [Software Engineer Intern - Embedded](https://careers-us.garmin.com/us/en/job/21001ET/Software-Engineer-Intern-Embedded-HQ-Olathe-KS), [Software Engineer Intern - Mobile](https://careers-us.garmin.com/us/en/job/21001G1/Software-Engineer-Intern-Mobile-HQ-Olathe-KS), [Software Engineer Intern - Web Development/DevOps](https://careers-us.garmin.com/us/en/job/21001G0/Software-Engineer-Intern-Web-Development-DevOps-HQ-Olathe-KS) Intern positions are available. |
@@ -145,7 +147,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[3M](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---Undergraduate-Data-Science---Engineering-Intern_R01050492-1) | Maplewood, MN | Undergraduate Data Science & Engineering Intern, [Graduate Data Science & Engineering Intern](https://3m.wd1.myworkdayjobs.com/en-US/Search/job/US-Minnesota-Maplewood/Internship---Graduate-Data-Science---Engineering-Intern_R01050459-1). Some positions require candidate to be legally authorized to work in country of employment without sponsorship for employment visa status (e.g., H1B status). |
 |[Twitch](https://boards.greenhouse.io/twitch/jobs/5471047002#application) | San Francisco, CA | Engineering Intern |
 |[Verisk](https://jobs.smartrecruiters.com/Verisk/743999766697992-data-science-internship-2022-summer-internship-program-cr-) | Jersey City, NJ; White Plains, NY; Boston, MA; Lehi, UT | Data Science Intern |
-|[Snackpass](https://boards.greenhouse.io/snackpass/jobs/4088786004) | New York, San Francisco, Los Angeles, or remote | Data Engineer Intern |
+|[Snackpass](https://boards.greenhouse.io/snackpass/jobs/4088786004) | New York, San Francisco, Los Angeles, or remote | Data Engineer Intern, [Software Engineer Intern](https://boards.greenhouse.io/snackpass/jobs/4136830004?gh_src=a4465bd04us) |
 |[Roblox](https://corp.roblox.com/careers/listing/?gh_jid=3376216) | San Mateo, CA | Software Engineering Intern, [Data Science Intern](https://corp.roblox.com/careers/listing/?gh_jid=3461439) |
 |[Peraton](https://careers.peraton.com/job-details/13556879/systems-software-engineering-intern-chantilly-va/#job-description) | Chantilly, VA | Systems/Software Engineering Intern. Candidates must be legally authorized to work in the U.S. and must not require sponsorship for employment visa status now, or in the future. |
 |[Noblis](https://careers.noblis.org/listings)| Various | Search `"2022"` - Multiple Location Openings. U.S. citizenship or permanent residency required. |
@@ -278,7 +280,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[ByteDance](https://www.linkedin.com/jobs/view/2709287898/) | Mountain View, CA | Software Engineer Intern |
 |[Nutrien](https://retailcareers-nutrien.icims.com/jobs/14787/intern%2c-digital-agronomy-and-data-science/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Champaign, IL | Data Science Intern |
 |[Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Intern---Software-Development-Engineer---Austin_R-64062/?source=handshakesourced) | Austin, TX; Chicago, IL; Seattle, WA | Software Development Engineer Intern |
-|[Intel](https://jobs.intel.com/ShowJob/Id/3056085/Automation%20Software%20Engineer%20Graduate%20Intern) | Phoenix, AZ | Automation Software Engineer Graduate Intern, must be pursuing Masters/PHD |
+|[Intel](https://jobs.intel.com/ShowJob/Id/3100682/GPU-Deep-Learning-Software-Engineer-(Intern)) | Santa Clara, CA | GPU Deep Learning Software Engineer Intern, must be pursuing Masters/PHD |
 |[Pocket Gems](https://www.linkedin.com/jobs/view/2709728782/?refId=850a8614-492f-334e-b8ad-37c793af3dc9)| San Francisco, CA | Software Engineer Intern |
 |[Neeva](https://jobs.lever.co/neeva/1fa8aa94-c787-4dc6-b487-d254a91dcca6) | Mountain View, CA | |
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/5526757002) | Multiple Locations | Software Engineer Inter/Coop; US Citizen Only |
@@ -301,10 +303,9 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Victoria's Secret](https://www.linkedin.com/jobs/view/2699248828/?refId=49f31cc5-1be0-4cd1-b9b4-dcf7f00228b9) | Columbus, OH | Technology Internship, multiple positions available |
 |[Gordian](https://fortive.taleo.net/careersection/external/jobdetail.ftl?job=TEK010120) | Beaverton, OR | Engineering Intern |
 |[Ginkgo Bioworks](https://jobs.lever.co/ginkgobioworks/f5cd6b3d-e074-40d6-994f-1cf39f469342) | Remote; Boston, MA | Software Engineering Intern |
-|[Cloudera](https://cloudera.wd5.myworkdayjobs.com/cldr_ur/job/US-California-Santa-Clara-HQ/Software-Engineering-Intern--Summer-2022_211436) | Santa Clara, CA | Software Engineering Intern |
+|<del> Cloudera </del> | Santa Clara, CA | **Temporarily Closed** Software Engineering Intern |
 |[Aegon](https://careers.aegon.com/en/vacancies/united-states/denver/administration/data-science-intern-summer-2022/) | Denver, CO | Data Science Intern |
 |[TransAmerica](http://careers.transamerica.com/ShowJob/Id/3087958/Data-Science-Intern-(Summer-2022)/) | Denver, CO | Data Science Intern |
-|[C.H. Robinson](https://jobs.chrobinson.com/job/-/-/209/14149862144) | Remote | Software Engineer Intern |
 |[Baxter International](https://jobs.baxter.com/job/-/-/152/14153460144) | Round Lake, IL | Software Engineering Intern |
 |[iRobot](https://irobot.wd5.myworkdayjobs.com/en-US/iRobot/job/US-MA-Bedford/Summer-2022--Software-Robot-Applications-Intern_R2426) | Bedford, MA | Software Robot Applications Intern |
 |[Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/software-engineering-internship-summer-2022-milwaukee-wi-corporate-jr-26747/) | Milwaukee, WI | Software Engineering Intern, Undergrad only|
@@ -315,6 +316,42 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 | [TransAmerica](http://careers.transamerica.com/ShowJob/Id/3087958/Data-Science-Intern-(Summer-2022)/) | Denver, CO | Data Science Intern |
 | [Samsung](https://boards.greenhouse.io/samsungsemiconductor/jobs/4712888003) | San Jose, CA | Software Intern |
 | [Playstation](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3473563/?t=b8y5ha) | San Francisco, CA; San Diego, CA; San Mateo, CA| Software Engineer Intern, [Software Development Engineer in Test Intern](https://boards.greenhouse.io/sonyinteractiveentertainmentplaystation/jobs/3470463/?t=b8y5ha) |
+| [Genesys](https://genesys.referrals.selectminds.com/jobs/software-engineer-intern-7563?src=JB-10380) | Indianapolis, IN; Durham, NC | Software Engineer Intern |
+| [McKesson](https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Atlanta-Metro/Software-Engineering-Intern---Summer-2022_JR0049473-1?source=Linkedin)| Atlanta, GA | Software Engineering Intern |
+| [Toast](https://boards.greenhouse.io/embed/job_app?token=3461147&gh_src=dbd19ebc1&s=LinkedIn&source=LinkedIn) | Boston, MA | Software Engineer Intern |
+| [Avanade](https://careers.avanade.com/jobsenus/SearchJobs/Summer%202022?3_56_3=19946) | Atlanta, GA; Dallas, TX; Houston, TX; Raleigh, NC | Data Analytics, Cloud Engineer Intern positions are available. |
+| [Intuit](https://jobs.intuit.com/category/interns-and-new-college-grads-jobs/27595/71554/1) | Mountain View, California; San Diego, California | Software Engineer Intern |
+|[Optum](https://careers.unitedhealthgroup.com/job-search-results/?keyword=Intern&parent_category[]=Optum&location=United%20States&country=US&radius=25) | Various| Various tracks are available. For most positions, sponsorship is not available. |
+|[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html?keyword=Summer%202022) | Remote | Solutions Engineering, Product Security, Software Engineering and other Intern positions are available. |
+|[Gap](https://www.gapinc.com/en-us/careers/job-search?query=GapTech&currentPage=1&sort=score) | San Francisco, CA | GapTech Software Engineering Internship Program. Front End, Back End, TechOps and Clound Engineering tracks are available. |
+|[Checkr](https://boards.greenhouse.io/checkr/jobs/3472399) | San Francisco, CA; Denver, CO; Orlando, FL; Remote | Software Engineering Intern. |
+|[Intuitive](https://careers.intuitive.com/us/en/job/214284/Computer-Science-Computer-Engineering-Intern) | Sunnyvale, CA | Computer Science/Computer Engineering Intern. |
+|[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/f6205ccb-ee15-4669-b8f4-0b773c974c02-2022-engineering-internships-north-america-latin-america) | San Francisco, CA | SWE, Machine Learning, Data Science internships and more! |
+|[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Various | SDE, SDET, Application, BA, Product, etc. |
+|[Epic Games](https://www.epicgames.com/site/en-US/students) | US | Various intern positions in software engineering, game design, analytics, etc.|
+|[Pacific Northwest National Laboratory (PNNL)](https://pnnl.jobs/jobs/?q=Intern) | US | Various positions  (search intern to view intern openings) |
+|[Instabase](https://instabase.com/careers/?gh_jid=5498192002) | SF; Menlo Park; New York City | Backend, FullStack, ML | 
+|[Red Hat](https://global-redhat.icims.com/jobs/89903/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | Software Engineering Internship |
+|[DataChat](https://datachat.bamboohr.com/jobs/view.php?id=26&source=aWQ9MTk%3D) | Madison, WI | Software Engineer Internship |
+[HashiCorp](https://www.hashicorp.com/job/3473291?gh_src=a8bc2ad21) | United States (Remote) | Software Engineering Intern |
+[Brex](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
+[Atlassian](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, US | Software Engineer Intern. Will not sponsor individuals for employment authorization for this job opening. |
+[Square](https://www.linkedin.com/jobs/view/2732493793/?alternateChannel=search&refId=C8WsJaUKNyt4SRN%2BX3Lucw%3D%3D&trackingId=KYFQ7%2Fwoml%2BardWGZF3w8A%3D%3D) | San Francisco, CA; Remote | Software Engineer Intern (Winter and Summer 2022) |
+[T-Mobile](https://www.tmobile.careers/job-details/13873490/uofmagenta-internship-network-technology-assoc-software-engineer-bellevue-wa/) | Various | Associate Software Engineer Intern |
+[American Airlines](https://jobs.aa.com/job/Ft-Worth-Software-Developer-Intern-TX-76101/789451500/) | Dallas, TX | Software Developer Intern |
+|[Second Spectrum](https://secondspectrum.recruitee.com/o/software-engineering-intern-summer-2022) | Remote | Software Engineer Intern |
+|[Bankers Healthcare Group](https://jobs.lever.co/bhg-inc/3916c46c-c64c-4f4a-9e02-bc362e864d3d) | Remote | Data Analytics Intern |
+|[FanDuel](https://boards.greenhouse.io/fanduel/jobs/3518333?gh_src=ba823b7b1us) | New York | Data Analytics Intern |
+|[Voleon](https://jobs.lever.co/voleon/fddcbfab-7541-45ca-8014-295804d47ed8) | Austin | Software Engineer Intern |
+|[Alteryx](https://alteryx.wd5.myworkdayjobs.com/en-US/AlteryxCareers/job/Irvine-California/Software-Engineer-Intern--Summer-2022-_R5679) | Irvine, CA | Software Engineer Intern |
+|[Aurora](https://aurora.tech/jobs/2022-summer-internship-software-engineering-control-5571701002) | Moutain View, Pittburgh | Software Engineer, Control |
+|[Analog Devices](https://career4.successfactors.com/career?career_ns=job_listing&company=analogdeviP1&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=24763) | Colorado | Full Stack Developer Internship | 
+|[Addepar](https://boards.greenhouse.io/addepar1) | Remote | Multiple positions, go to company job pages and scroll to Interns and New Grads |
+|[Cloudflare](https://www.linkedin.com/jobs/view/2731828665/?refId=059ebc88-fd1b-4a31-a6ef-3227a140cbeb) | Austin, TX | Data Engineering and Analytics |
+|[Cambly](https://jobs.lever.co/cambly/a965ee9f-3a17-4c20-a17b-8b7a0e4be158) | San Francisco | Software Engineer Intern |
+|[Qumulo](https://qumulo.com/company/jobs/?gh_jid=3434199) | Seattle, WA | Software Development Engineer |
+|[Pendo](https://boards.greenhouse.io/pendo/jobs/5549592002) | Raleigh, NC | Software Engineering Intern |
+|[PathAI](https://www.linkedin.com/jobs/view/2719073327/) | Boston, MA | Biomedical Data Scientist | 
 
 **We love our contributors ❤️❤️**
 
@@ -370,3 +407,7 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [ch2ohch2oh](https://github.com/ch2ohch2oh)
 * [Pochetes](https://github.com/Pochetes)
 * [allen-tran](https://github.com/allen-tran)
+* [BaoLongNguyenUMD](https://github.com/BaoLongNguyenUMD)
+* [nimeshnischal](https://github.com/nimeshnischal)
+* [tson1111](https://github.com/tson1111)
+* [matthewbrown77](https://www.github.com/matthewbrown77)
